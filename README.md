@@ -1,4 +1,4 @@
-# [JS Drum Kit](https://akshayparihar07.github.io/drumkit/)
+# [JS Drum Kit](https://akshayparihar07.github.io/Drumkit/)
 
 A simple web application that simulates a drum kit using HTML, CSS, and JavaScript.
 
@@ -18,7 +18,7 @@ The JS Drum Kit allows users to play different drum sounds by pressing correspon
 
 To use the drum kit:
 
-1. [Click Here](https://akshayparihar07.github.io/drumkit/) or Open the `index.html` file in your web browser. 
+1. [Click Here](https://akshayparihar07.github.io/Drumkit/) or Open the `index.html` file in your web browser. 
 2. Press the keys 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', or 'L' on your keyboard to play different drum sounds.
 3. Enjoy making beats!
 
